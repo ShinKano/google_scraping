@@ -1,2 +1,2 @@
 # google_scraping
-Pick top 3 of google search from csv file.
+Pick up top 3 of google search from keywords in a csv file.
